@@ -3,7 +3,7 @@
 ## Description
 
 This repository contains Python code about learning the Pandas.
-I myself wouldn't dare to call this a technical blog but rather some notes where I learned from Kaggle.
+Not a technical blog but rather some notes where I learned from Kaggle.
 
 Included:
  - Creating, Reading, and Writing
